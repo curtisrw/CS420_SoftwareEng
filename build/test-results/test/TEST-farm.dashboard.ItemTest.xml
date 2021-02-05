@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="farm.dashboard.ItemTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-11-14T22:49:16" hostname="MacBook-Air.local" time="0.008">
+  <properties/>
+  <testcase name="testClassExists" classname="farm.dashboard.ItemTest" time="0.002"/>
+  <testcase name="testSetHeight" classname="farm.dashboard.ItemTest" time="0.0"/>
+  <testcase name="testSetLength" classname="farm.dashboard.ItemTest" time="0.0"/>
+  <testcase name="testSetLocationX" classname="farm.dashboard.ItemTest" time="0.0"/>
+  <testcase name="testSetLocationY" classname="farm.dashboard.ItemTest" time="0.0"/>
+  <testcase name="testSetName" classname="farm.dashboard.ItemTest" time="0.0"/>
+  <testcase name="testSetPosition" classname="farm.dashboard.ItemTest" time="0.001"/>
+  <testcase name="testSetPrice" classname="farm.dashboard.ItemTest" time="0.0"/>
+  <testcase name="testSetWidth" classname="farm.dashboard.ItemTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
